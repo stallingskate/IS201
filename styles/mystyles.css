@@ -1,0 +1,27 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color:gray;
+}
+
+li {
+        font-size: 16px;
+        font-style: italic;
+    }
+
+a {
+        color:pink
+    } 
+
+ li {
+        color: navy;
+    }
+
+.bold {
+    font-weight: bold;
+}
+
+li{
+    color: green;
+    font-style: italic;
+}
